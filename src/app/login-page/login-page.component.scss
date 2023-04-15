@@ -1,0 +1,17 @@
+.login-content {
+    align-items: center;
+}
+
+.m-top-100 {
+    margin-top: 180px;
+}
+
+.img-container {
+    text-align: center;
+}
+
+@media(min-width: 1400px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1705px;
+    }
+}

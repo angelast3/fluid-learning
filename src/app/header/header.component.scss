@@ -1,0 +1,29 @@
+.app-name {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #F0D800;
+    text-shadow: -1.5px 1.5px #9B8C00;
+}
+
+#navbarNavAltMarkup .nav-link{
+    color: white;
+    font-size: 16px;
+    line-height: 100%;
+}
+#navbarNavAltMarkup .navbar-nav .active{
+    border: 1px white solid;
+    border-radius: 6px;
+}
+
+#navbarNavAltMarkup .navbar-nav .display{
+    display: none;
+}
+
+.navbar {
+    padding-left: 30px;
+    padding-right: 30px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
